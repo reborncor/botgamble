@@ -1,0 +1,2 @@
+AfterBetMoney=1,30
+BetStep=1
