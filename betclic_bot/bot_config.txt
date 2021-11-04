@@ -1,4 +1,0 @@
-Login=
-Password=
-BirthDate=
-Mise=0.1
